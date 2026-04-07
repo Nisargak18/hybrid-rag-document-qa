@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+neo4j
+langchain-experimental
+langchain-neo4j
+flask
+fastembed
