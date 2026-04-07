@@ -52,5 +52,12 @@ The retrieved context + query is sent to LLM (brain). The LLM generates answers 
 ### 1. Hybrid Architecture Diagram
 
 
+<img width="1536" height="1024" alt="Hybrid architecture for AI response generation" src="https://github.com/user-attachments/assets/2c5fce51-e76d-43d4-be05-85a79d35239c" />
+
+
 ### 2. Document Ingestion Pipeline and Conversational Retrieval Flow
+
+<img width="1536" height="1024" alt="Flowcharts of document ingestion and retrieval" src="https://github.com/user-attachments/assets/1cd76d52-4d79-4d7a-8fc2-ecc1b3561834" />
+
+
 
